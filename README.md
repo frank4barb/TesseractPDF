@@ -1,4 +1,3 @@
-Ecco il testo formattato con i tag del README.md e i link alle librerie esterne:
 
 # PDF Text Extractor
 =====================
