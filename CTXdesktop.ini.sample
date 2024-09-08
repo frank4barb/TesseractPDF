@@ -1,0 +1,12 @@
+; Tesseract PDF
+ #tsPDF_dbType SqlServer
+ #tsPDF_connectionString Data Source=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ #tsPDF_select select xxx as ID_DOC, xxxx as TYPE_DOC, xxxx as DESC1, xxxx as DESC2, xxxxxxx as DESC3, xxxxxxxx as BLOB_PDF from xxxxxxxxxx
+ 
+ #tsPDF_docTY1 XXXXXXX
+ #tsPDF_docTYstart1 aaaaa**1||bbbbb**1||cccccc**2||ddddddd**2
+ #tsPDF_docTYend1 eeeeee**-1||"hhhhhhhhhh**-1
+
+ #tsPDF_docTY2 XXXXXXXXXXXXX
+ #tsPDF_docTYstart1 xxxx**0
+ #tsPDF_docTYend1 yyyyyy**0
